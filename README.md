@@ -1,5 +1,5 @@
-# make CPU scheduler
-make cpu scheduler program
+# Make CPU scheduler
+Make CPU scheduler program (C Code)
 
 ## 🎯 Programming Goal 
 Implementation CPU Scheduling <br>
