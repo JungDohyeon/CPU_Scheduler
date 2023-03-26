@@ -1,4 +1,4 @@
-# make_scheduler
+# make CPU scheduler
 make cpu scheduler program
 
 ## 🎯 Programming Goal 
